@@ -31,3 +31,11 @@ The background color of the menu changes according to the current reading
 Several cards have animations and colors that change depending on the state. Some also have a notification badge
 
 ![mushroom](https://github.com/Guizmos123/Mushroom/assets/55227321/34e9e69d-8fe1-4dac-9645-7a1cbaa1d149)
+
+# The main cards
+
+![5](https://github.com/Guizmos123/Mushroom/assets/55227321/5465588e-9f92-4642-8788-92bf5c6d7206)
+
+# When media_player is playing
+
+![6](https://github.com/Guizmos123/Mushroom/assets/55227321/291036e8-723c-4be6-badf-433cf0b21e68)
