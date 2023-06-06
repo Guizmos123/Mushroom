@@ -9,6 +9,8 @@ I present to you my Mushroom dashboard for Home Assistant.
 General navigation goes through local-conditional-card. Which basically works by showing or hiding a card.
 [Link](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card)
 
+![4](https://github.com/Guizmos123/Mushroom/assets/55227321/54ee62b7-c173-43f2-bba0-5360b4ebee9b)
+
 # The top menu bar
 To display more icons, I use a swipe-card.
 [link](https://github.com/bramkragten/swipe-card)
